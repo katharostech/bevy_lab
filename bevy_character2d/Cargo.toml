@@ -1,0 +1,13 @@
+[package]
+name = "bevy_character2d"
+version = "0.1.0"
+authors = ["Tekhnae Raav <tekhnaeraav@katharostech.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.4"
+serde = { version = "1.0.120", features = ["derive"] }
+serde_yaml = "0.8.15"
+thiserror = "1.0.23"
+anyhow = "1.0.38"
+tilesetanims = "0.1.0"

@@ -1,0 +1,9 @@
+[package]
+name = "tilesetanims"
+version = "0.1.0"
+authors = ["Tekhnae Raav <tekhnaeraav@katharostech.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.4"
+
