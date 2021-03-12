@@ -10,4 +10,4 @@ serde = { version = "1.0.120", features = ["derive"] }
 serde_yaml = "0.8.15"
 thiserror = "1.0.23"
 anyhow = "1.0.38"
-tilesetanims = "0.1.0"
+tilesetanims = { path = "../tilesetanims" }
